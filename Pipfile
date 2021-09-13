@@ -4,8 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-ping3 = "==3.0.2"
-matplotlib = ">=3.4.0"
+ping3 = ">=3.0.2"
+flask = ">=2.0.1"
 
 [dev-packages]
 
